@@ -7,7 +7,7 @@ This project focuses on layout design, styling, and replicating a real-world e-c
 
 ## 🚀 Live Demo
 
-🔗 link here ()
+🔗 link here ( https://rajshree051205-cloud.github.io/Amazon-Clone/)
 
 ---
 
