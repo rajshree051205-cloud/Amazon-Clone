@@ -5,6 +5,9 @@ This project focuses on layout design, styling, and replicating a real-world e-c
 
 ---
 
+This is a fronted UI practice project. No real data is collected.
+
+
 ## 🚀 Live Demo
 
 🔗 link here ( https://rajshree051205-cloud.github.io/Amazon-Clone/)
